@@ -1,4 +1,4 @@
-Simple React Application - for training 
+## Simple React Application - for training 
 
 ## Available Scripts
 
